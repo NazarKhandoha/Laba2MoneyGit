@@ -1,0 +1,5 @@
+C:\Users\koval\Desktop\gitlab\Lab2\CreditLibrary\bin\Debug\CreditLibrary.dll
+C:\Users\koval\Desktop\gitlab\Lab2\CreditLibrary\bin\Debug\CreditLibrary.pdb
+C:\Users\koval\Desktop\gitlab\Lab2\CreditLibrary\obj\Debug\CreditLibrary.csprojResolveAssemblyReference.cache
+C:\Users\koval\Desktop\gitlab\Lab2\CreditLibrary\obj\Debug\CreditLibrary.dll
+C:\Users\koval\Desktop\gitlab\Lab2\CreditLibrary\obj\Debug\CreditLibrary.pdb
