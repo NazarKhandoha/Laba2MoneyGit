@@ -10,7 +10,7 @@ namespace Purse
             Console.WriteLine(money.GetMoney());
             var credit = new CreditCard.CreditCard(500);
             Console.WriteLine(credit.GetSumCreditCard());
-            var bcard = new BusinessCard.BusinessCard("My change");
+            var bcard = new BusinessCard.BusinessCard("My Bussiness card");
             Console.WriteLine(bcard.FindOutWhose());
         }
     }
