@@ -3,7 +3,7 @@
     public class Money
     {
         private decimal amount = 0;
-        private string msg = "Money";
+        private string msg = "It's my money";
         public string GetMoney()
         {
             return msg + amount.ToString();
