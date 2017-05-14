@@ -9,7 +9,7 @@ namespace CreditCard
     public class CreditCard
     {
         public decimal amount = 0;
-        private string msg = "Credit Card";
+        private string msg = "Credit Card111111";
 
         public string GetSumCreditCard()
         {
