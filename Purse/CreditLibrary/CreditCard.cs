@@ -6,7 +6,7 @@ namespace CreditLibrary
     {
         public void getCredit()
         {
-            Console.WriteLine("get credit");
+            Console.WriteLine("are you stupid?");
         }
     }
 }
